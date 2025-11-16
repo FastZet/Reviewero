@@ -1,0 +1,5 @@
+{
+  "name": "Reviewero",
+  "description": "A Stremio addon that provides spoiler-free, AI-generated reviews in a single stream result for movies and series episodes.",
+  "requestFramePermissions": []
+}

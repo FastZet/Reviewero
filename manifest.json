@@ -1,0 +1,14 @@
+{
+  "id": "com.gemini.spoilerfree.reviews",
+  "version": "1.0.0",
+  "name": "Gemini Spoiler-Free Reviews",
+  "description": "Get concise, spoiler-free, AI-generated reviews for movies and series episodes right in Stremio.",
+  "resources": ["stream"],
+  "types": ["movie", "series"],
+  "idPrefixes": ["tt"],
+  "catalogs": [],
+  "behaviorHints": {
+    "configurable": true,
+    "configurationRequired": true
+  }
+}
